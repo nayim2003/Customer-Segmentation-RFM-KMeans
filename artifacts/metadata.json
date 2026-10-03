@@ -1,0 +1,17 @@
+{
+  "features": [
+    "Recency",
+    "Frequency",
+    "Monetary"
+  ],
+  "transformation": "log1p",
+  "scaling": "StandardScaler",
+  "algorithm": "KMeans",
+  "n_clusters": 2,
+  "random_state": 42,
+  "reference_date": "2011-12-10 12:50:00",
+  "segment_mapping": {
+    "0": "Highest-Value Segment",
+    "1": "High-Value Segment"
+  }
+}

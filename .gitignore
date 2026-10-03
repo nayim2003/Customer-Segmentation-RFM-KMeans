@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+data/*.csv
+data/*.xlsx
+
+artifacts/*.joblib
+artifacts/*.pkl
+
+outputs/*.csv
+
+.DS_Store

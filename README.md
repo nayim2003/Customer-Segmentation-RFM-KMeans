@@ -162,3 +162,8 @@ Future improvements could include:
 - cohort analysis
 - campaign response modeling
 - monitoring for distribution drift
+
+----
+# ***Md. Nayim Howlader***
+## ***BSc (Honours), Statistics,***
+## ***Dhaka College, Dhaka.***
